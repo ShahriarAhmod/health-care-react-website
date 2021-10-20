@@ -1,0 +1,38 @@
+[
+    {
+        "id": "crss450",
+        "serviceName": "24/7 Service",
+        "description": "We Provide 24/7 medical service to our patients. So that no one won't be without treatment.",
+        "image": "https://www.columbiasouthern.edu/media/vl1jnvdz/ems-administrator.jpg"
+    },
+    {
+        "id": "crss455",
+        "serviceName": "Dedicated employs",
+        "description": "We have a lot of dedicated doctors and stuffs.They are ready for every situation.",
+        "image": "https://image.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21199.jpg"
+    },
+    {
+        "id": "crss655",
+        "serviceName": "Professional Dentist ",
+        "description": "We provide Dentists for our patients because most of our patients r facing teeth problem.",
+        "image": "https://1.bp.blogspot.com/-TOF8yo8KsUM/X-F2lZoNQYI/AAAAAAAAAA8/bNoENBl5GPIHlpXmLwsPl3GIntcFRkgagCLcBGAsYHQ/s640/Top%2B5%2BBest%2BDentist%2BNear%2BMe%2Bin%2BDhaka%2B-%2BDental%2BClinic%2B-%2BDental%2BHospital%2B%255B%2B4%2B%255D.jpg"
+    },
+    {
+        "id": "crss685",
+        "serviceName": "Diabetic Foot Care",
+        "description": "We provide diabetic treatment for who's are  affect by it.They faced foot problem. ",
+        "image": "https://www.endocrineweb.com/sites/default/files/imagecache/gallery-large/wysiwyg_imageupload/37373/2017/12/19/FootCare_29766673_M.jpg"
+    },
+    {
+        "id": "crss150",
+        "serviceName": "Child Treatment",
+        "description": "We provide child treatment for beloved children. They are like the angels",
+        "image": "http://mayureshwarnursesbureau.com/wp-content/uploads/2021/02/Design-Elements-Mind-Map.png"
+    },
+    {
+        "id": "crss547",
+        "serviceName": "Pegnancy Care",
+        "description": "Being mother is the best part for any women.so we provide a intesive vare for pragent mother",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvm5F5TdzyoF8dl7JrHfWx-BMerEguegbCRw&usqp=CAU"
+    }
+]

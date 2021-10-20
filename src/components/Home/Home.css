@@ -1,0 +1,10 @@
+.banner {
+    background-image: url("https://image.freepik.com/free-photo/doctor-with-stethoscope-hands-hospital-background_1423-1.jpg");
+    height: 500px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 0px;
+  }
